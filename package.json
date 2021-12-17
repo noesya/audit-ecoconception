@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "@gouvfr/dsfr": "^1.2.1"
+    "@gouvfr/dsfr": "^1.2.1",
+    "serve": "^13.0.2"
   }
 }
